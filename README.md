@@ -1,86 +1,48 @@
-### Hi there 👋
+# 👋 Hi there! Welcome to my GitHub profile! I'm Vamsi Krishna Kocherla
 
-# Hello, World! 👋
+I'm a Senior Computer Vision Scientist by day, AI & Robotics enthusiast by night, and a caffeine-addict, straight-A do-er at all times! Oh, did I mention my unquenchable thirst for reading and understanding (and sometimes implementing) AI Research Papers? Well, there you have it!
 
-I'm Vamsi Krishna, a passionate Electrical, Electronics, and Communication Engineer and an AI enthusiast from Hyderabad, India. My fascination with technology and its transformative potential led me to dive deep into the realm of AI, ML, and Computer Vision.
+Being an Electronics and Communication Engineer who happens to be a coding fanatic and an AI obsessive, I have managed to delve into the vast ocean of artificial intelligence. From developing super-complex multi-level detection and classification models to designing a microservice-based architecture for deploying the said models, I've got a bunch of tricks up my sleeves. But don't be fooled. I'm not just an AI machine. I also possess excellent communication skills, making me a charm to work with!
 
-🔭 Currently, I'm working as a Computer Vision Scientist at [Upjao](https://upjao.ai), focusing on developing and implementing ML models for a variety of products and services.
+## 💻 Skills
 
-## 🚀 Skills
+- Computer Vision, Machine Learning, Deep Learning, Neural Networks
+- TensorFlow, PyTorch, NLP, OpenCV
+- Docker, Kubernetes, Kubernetes Operator, KNative, KServe, Kubeflow, Flask, Gitlab CI/CD
+- Linux, Linux File System, GCP Cloud Run, GCP Cloud Functions
+- Python, C/C++, CUDA, Java, HTML, JavaScript, Shell Scripting, Helm Charts
+- Google Cloud Platform, Amazon Web Services
+- MongoDB, MySQL, PostgreSQL
+- Designing Applications Based on Microservice Architecture
+- Deploying GPU-based high-Performance Workloads into Kubernetes clusters
+- Configuring on-prem databases/monitoring tools in Kubernetes clusters
+- Implementing DL models based on Research Papers
+- Reading, Understanding and implementing AI Research Papers
+- Configuring HPC Systems
+- Arduino, Raspberry Pi, Embedded Systems
+- Photography, Adobe Lightroom (Oh yeah, I'm pretty handy with a camera too!)
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 📊 Deep Learning (with a focus on Computer Vision)
-* 🚁 Drone Technology
-* 🔧 Hardware (Arduino, Raspberry Pi, ESCs, Brushless Motors)
-* 🎛 Electronics and Communication Engineering
+## 🌱 What am I up to?
 
-## 🌱 I'm currently learning ...
+- Presently employed at Tata Consultancy Services as an AI/ML Developer and as a Sr. Computer Vision Scientist at Upjao Agrotech, where I'm tackling some pretty tough stuff on a daily basis (Trust me, it's not for the faint-hearted!). Check out my [LinkedIn](https://www.linkedin.com/in/vamsi-krishna-kocherla-46941a16a/) for a deep dive into my experience and roles.
 
-* Techniques for optimising ML models for edge and mobile devices
-* Advanced concepts in AI and Deep Learning
-* New technologies and their practical applications
+- Recently, I've been implementing AI-based automation of MLR review of promotional assets. This bad boy can extract, process, and verify data like it's a piece of cake.
 
-## 📫 How to reach me:
+- Also, I've been leading a project to extract and process Active Pharmaceutical Ingredient Reports. Sounds tough, doesn't it? Well, I'm tougher!
 
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-* Email: [Email](mailto:youremail@example.com)
+- Developed multiple deep learning models, for everything from crop quality detection to accurate segmentation of small objects. My models are fast, accurate, and can run on anything from your grandma's smartphone to high-performance cloud-based systems.
 
-## 📚 Recent Projects
+- Implemented several CI/CD pipelines, designed multi-stage pipelines, and tinkered with various state-of-the-art models. In short, I've been having a blast.
 
-* Cattle identification using facial features and muzzle patterns at NCFlexE, IIT Kanpur
-* Age detection using human faces as input
-* Quadcopter with a flying range of 2.8 kilometers
-* A line-following rover and a Bluetooth-controlled sports car
+- I've also been doing some cool stuff as a Computer Vision Intern at NCFlexE, IIT Kanpur.
 
-Feel free to reach out if you have any questions or if you want to discuss technology, projects or collaboration. Stay curious and keep learning! 🚀
+## 🎓 Education
+- Earned my B.Tech from GITAM University, Hyderabad, majoring in Electrical, Electronics and Communication Engineering.
 
-# Vamsi Krishna Kocherla
-**Sr, Computer Vision Scientist | AI & Robotics Enthusiast**  
-**Ph, No:** (+91) 7416127777  
-**Email:** vamsikmails@gmail.com
+## 🚀 Projects
 
-**GitHub:** [github.com/VamsiKrishna1211](https://github.com/VamsiKrishna1211)  
-**LinkedIn:** [linkedin.com/in/vamsi-krishna-kocherla-46941a16a](https://linkedin.com/in/vamsi-krishna-kocherla-46941a16a)
+- Age Prediction Server: A web server that accurately determines the age of a human face from an image. Yes, it's as awesome as it sounds!
 
-## Summary
-Well, hello there, Earthlings! I'm Vamsi Krishna, your friendly neighborhood Electrical, Electronics, and Communication Engineer, and self-proclaimed AI enthusiast hailing from the bustling city of Hyderabad, India. I've got this weird obsession with technology and its magical powers, so I decided to take a plunge into the mystical world of AI, ML, and Computer Vision. Currently, I'm playing the role of a Computer Vision Scientist at Upjao, where I spend my days (and nights) crafting ML models for a bunch of products and services.
+- Real-Time Noise Cancellation in Audio signals using Deep Learning: This one's a lifesaver in a noisy city like mine!
 
-## Skills
-- Conjuring Artificial Intelligence & Machine Learning magic
-- Deep Learning (especially when it involves Computer Vision)
-- Flying Drones (not into windows, I promise)
-- Tinkering with Hardware (Arduino, Raspberry Pi, ESCs, Brushless Motors)
-- And of course, Electronics and Communication Engineering (because why not?)
-
-## I'm currently learning:
-- Techniques for optimizing ML models for edge and mobile devices (because who doesn't love a challenge?)
-- Advanced concepts in AI and Deep Learning (because there's always more to learn)
-- New technologies and their practical applications (because staying updated is cool)
-
-## How to reach me:
-**LinkedIn:** [LinkedIn](https://www.linkedin.com)  
-**Email:** [Email](mailto:vamsikmails@gmail.com)
-
-## Recent Projects
-- Identifying cattle using facial features and muzzle patterns at NCFlexE, IIT Kanpur (because cows need recognition too)
-- Detecting age using human faces as input (no, it's not to guess your age at the carnival)
-- A quadcopter with a flying range of 2.8 kilometers (because who needs roads when you can fly?)
-- A line-following rover and a Bluetooth-controlled sports car (because why should humans have all the fun?)
-
-Feel free to reach out if you have any questions or if you want to discuss technology, projects, or collaboration. Remember, curiosity didn't kill the cat, it just made it smarter! Keep learning, folks!
-
-
-<!--
-**VamsiKrishna1211/VamsiKrishna1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A cool DIY drone (quadcopter) project: Built
