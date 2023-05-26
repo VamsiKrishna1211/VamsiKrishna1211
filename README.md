@@ -4,50 +4,28 @@ A Senior Computer Vision Scientist, AI & Robotics enthusiast, and an avid lover 
 
 ## 💻 Skills
 
-### Core Skills
-- Computer Vision
-- Machine Learning
-- Deep Learning
-- Neural Networks
+| Core Skills | Programming Languages | ML & DL Libraries |
+| ----------- | -------------------- | ----------------- |
+| Computer Vision | Python | TensorFlow |
+| Machine Learning | C/C++ | PyTorch |
+| Deep Learning | CUDA | NLP |
+| Neural Networks | Java | OpenCV |
 
-### Programming Languages
-- Python
-- C/C++
-- CUDA
-- Java
-- HTML
-- JavaScript
-- Shell Scripting
-- Helm Charts
-
-### ML & DL Libraries
-- TensorFlow
-- PyTorch
-- NLP
-- OpenCV
-
-### DevOps and Cloud Skills
-- Docker
-- Kubernetes
-- Kubernetes Operator
-- KNative
-- KServe
-- Kubeflow
-- Flask
-- Gitlab CI/CD
-- Linux, Linux File System
-- GCP Cloud Run, GCP Cloud Functions
-
-### Cloud Platforms
-- Google Cloud Platform
-- Amazon Web Services
-
-### Databases
-- MongoDB
-- MySQL
-- PostgreSQL
+| DevOps and Cloud Skills | Cloud Platforms | Databases |
+| ----------------------- | -------------- | ---------- |
+| Docker | Google Cloud Platform | MongoDB |
+| Kubernetes | Amazon Web Services | MySQL |
+| Kubernetes Operator |  | PostgreSQL |
+| KNative |  |  |
+| KServe |  |  |
+| Kubeflow |  |  |
+| Flask |  |  |
+| Gitlab CI/CD |  |  |
+| Linux, Linux File System |  |  |
+| GCP Cloud Run, GCP Cloud Functions |  |  |
 
 ### Other Skills
+
 - Designing Applications Based on Microservice Architecture
 - Deploying GPU-based high-Performance Workloads into Kubernetes clusters
 - Configuring on-prem databases/monitoring tools in Kubernetes clusters
