@@ -1,5 +1,3 @@
-Certainly, here's the updated information reorganized into sub-sections:
-
 # 👋 Hi there! Welcome to my GitHub profile! I'm Vamsi Krishna Kocherla
 
 A Senior Computer Vision Scientist, AI & Robotics enthusiast, and an avid lover of caffeine. Being an Electronics and Communication Engineer who loves to code, I have ventured deep into the world of artificial intelligence, developing intricate multi-level detection and classification models to designing microservice-based architectures for deploying them. 
