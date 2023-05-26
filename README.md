@@ -4,7 +4,7 @@
 
 I'm Vamsi Krishna, a passionate Electrical, Electronics, and Communication Engineer and an AI enthusiast from Hyderabad, India. My fascination with technology and its transformative potential led me to dive deep into the realm of AI, ML, and Computer Vision.
 
-🔭 Currently, I'm working as a Computer Vision Scientist at [Upjao](upjao.ai), focusing on developing and implementing ML models for a variety of products and services.
+🔭 Currently, I'm working as a Computer Vision Scientist at [Upjao](https://upjao.ai), focusing on developing and implementing ML models for a variety of products and services.
 
 ## 🚀 Skills
 
