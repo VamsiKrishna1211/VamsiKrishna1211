@@ -19,7 +19,7 @@ The following tables (tastefully rendered, I might add) reflect my arsenal of sk
 | ----------------------- | -------------- | ---------- |
 | Docker | Google Cloud Platform | MongoDB |
 | Kubernetes | Amazon Web Services | MySQL |
-| Kubernetes Operator |  | PostgreSQL |
+| Kubernetes Operator | Azure Cloud | PostgreSQL |
 | KNative |  |  |
 | KServe |  |  |
 | Kubeflow |  |  |
