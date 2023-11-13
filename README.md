@@ -2,7 +2,7 @@
 
 You've stumbled upon the Github repository of none other than Vamsi Krishna Kocherla. A Senior Computer Vision Scientist by day, AI & Robotics enthusiast by night, and an always-on coffee chugging machine!
 
-You might be wondering what I've been doing with my life. Well, with a shiny degree in Electronics and Communication Engineering and an insatiable thirst for coding, I've been on an exhilarating adventure into the wonderful world of artificial intelligence. From crafting complex multi-level detection and classification models to architecting microservice-based infrastructures for deployment. A testament to my resilience, adaptability, and a coffee-powered brain.
+If you are wondering what I've been doing with my life. Well, with a shiny degree in Electronics and Communication Engineering and an insatiable thirst for coding, I've been on an exhilarating adventure into the wonderful world of artificial intelligence. From crafting complex multi-level detection and classification models to architecting microservice-based infrastructures for deployment. A testament to my resilience, adaptability, and a coffee-powered brain.
 
 ## 🚀 🌌 Charting my course through the Tech Universe:
 
