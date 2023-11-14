@@ -13,7 +13,7 @@ The following tables (tastefully rendered, I might add) reflect my arsenal of sk
 | Computer Vision | Python | TensorFlow |
 | Machine Learning | C/C++ | PyTorch |
 | Deep Learning | CUDA | NLP |
-| Neural Networks | Java | OpenCV |
+| Neural Networks | Golang | OpenCV |
 
 | ⚙️ DevOps and Cloud Skills | ☁️ Cloud Platforms | 💽 Databases |
 | ----------------------- | -------------- | ---------- |
